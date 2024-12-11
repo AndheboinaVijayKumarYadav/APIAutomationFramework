@@ -1,4 +1,4 @@
-package com.vijay.testing.PaylodManagement.POJO;
+package com.vijay.testing.pojos;
 
 
 import com.google.gson.annotations.Expose;

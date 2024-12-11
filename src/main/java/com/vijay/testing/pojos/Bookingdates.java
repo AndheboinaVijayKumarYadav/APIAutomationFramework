@@ -1,8 +1,9 @@
-package com.vijay.testing.PaylodManagement.POJO; ;
-
+package com.vijay.testing.pojos;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
+
+;
 
 
 public class Bookingdates {
